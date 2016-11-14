@@ -6,7 +6,6 @@
  ********************************************************/
 #include "StringEditor.h"
 
-
 StringEditor::StringEditor()
 {
     leftChar.push(NULL);

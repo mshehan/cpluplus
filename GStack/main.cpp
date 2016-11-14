@@ -11,7 +11,6 @@ using namespace std;
 void printMenu();
 int main()
 {
-    
   int choice; // holds the value of the user's choice.
   string left; // holds the string to the left of the cursor
   string right;
