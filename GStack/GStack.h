@@ -23,7 +23,6 @@ public:
     return "Stack Exception: ";
   }
 };
-
 template <class T>
 class GStack
 {
