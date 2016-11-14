@@ -6,7 +6,6 @@
  
  The Main Program
  -----------------
- 
  The main program has a few simple functions.
  Users can choose
  1. to add a new customer to the table

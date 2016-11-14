@@ -11,7 +11,6 @@
 using namespace std;
 
 void printMenu();
-
 int main() {
   int choice = 0; // used to choose from printMenu
   

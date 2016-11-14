@@ -4,7 +4,6 @@
  * Title: project 3 (Nodes, StringEditor Class)          *
  * class: CIS 279                                        *
  ********************************************************/
-
 #include <iostream>
 #include "StringEditor.h"
 

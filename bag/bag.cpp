@@ -4,7 +4,6 @@
  * Title: project 2 (Bag/MoneyBag Class)                 *
  * class: CIS 279                                        *
  ********************************************************/
-
 /*****************************************************************/
 // FILE: bag1.cxx
 // CLASS IMPLEMENTED: bag (see bag1.h for documentation)

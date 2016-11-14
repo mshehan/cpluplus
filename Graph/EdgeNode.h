@@ -2,7 +2,6 @@
  * Name: Matthew Shehan, Damon Chan                      *
  * Due Date: May 21, 2015                                *
  */
-
 #ifndef __Graph__EdgeNode__
 #define __Graph__EdgeNode__
 class EdgeNode

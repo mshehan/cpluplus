@@ -13,7 +13,6 @@ CD::CD()
   author = '\0';
   quantity = 0;
   cost = 0.0;
-  
 }
 
 CD::CD(std::string titl)

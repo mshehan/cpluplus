@@ -8,7 +8,6 @@
 class FullPQ{};
 class EmptyPQ{};
 
-
 // Definition of class Heap
 
 template<class T>

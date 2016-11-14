@@ -4,7 +4,6 @@
  * Title: project 2 (Bag/MoneyBag Class)                 *
  * class: CIS 279                                        *
  ********************************************************/
-
 #ifndef __project2__MoneyBag__
 #define __project2__MoneyBag__
 

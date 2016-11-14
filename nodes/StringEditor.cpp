@@ -6,7 +6,6 @@
  ********************************************************/
 
 #include "StringEditor.h"
-
 //Default constructor inline
 
 StringEditor::StringEditor(string left, string right):StringEditor()

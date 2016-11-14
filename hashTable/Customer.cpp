@@ -4,7 +4,6 @@
 * Title: project 7                *
 * class: CIS 279                  *
  **********************************/
-
 #include "Customer.h"
 
 Customer::Customer()

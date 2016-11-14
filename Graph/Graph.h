@@ -64,7 +64,6 @@
  postcondition: the return value is true if the graph has a path
  from source to target otherwise the return value is false
  */
-
 #ifndef _Header_h
 #define _Header_h
 const size_t MAXIMUM = 100;

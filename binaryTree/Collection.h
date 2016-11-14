@@ -16,7 +16,6 @@ class Collection:public binary_tree_node<T>
 private:
   binary_tree_node<T>* root;
   
-
   void recPrint(binary_tree_node<T>* root) const;
 //Effect:  prints the collection data using in order traversal
 //Precondition:  None

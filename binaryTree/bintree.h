@@ -164,5 +164,3 @@ size_t tree_size(const binary_tree_node<Item>* node_ptr)
         return
         1 + tree_size(node_ptr->left( )) + tree_size(node_ptr->right( ));
 }
-
-

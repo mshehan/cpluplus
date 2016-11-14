@@ -19,7 +19,6 @@
  the '<<' operator is overloaded
  as well as the '=' operator
  to print a Customer object to the screen
- 
  **********************************************/
 #ifndef __hashTable__Customer__
 #define __hashTable__Customer__
@@ -35,8 +34,6 @@ private:
   string address;
 public:
   int key;
-  
-  
   Customer();
   Customer(int cPhone);
   Customer(string cName, string cAddress, int cPhone);

@@ -4,7 +4,6 @@
  * Title: project 6                                      *
  * class: CIS 279                                        *
  ********************************************************/
-
 #ifndef __priorityQueue__Patient__
 #define __priorityQueue__Patient__
 

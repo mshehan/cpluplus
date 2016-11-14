@@ -2,7 +2,6 @@
  * Name: Matthew Shehan, Damon Chan                      *
  * Due Date: May 21, 2015                                *
  */
-
 #include "EdgeNode.h"
 EdgeNode::EdgeNode() {
     vertex_num = 0;

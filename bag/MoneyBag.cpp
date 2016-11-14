@@ -4,7 +4,6 @@
  * Title: project 2 (Bag/MoneyBag Class)                 *
  * class: CIS 279                                        *
  ********************************************************/
-
 #include "MoneyBag.h"
 #include <cassert>
 

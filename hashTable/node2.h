@@ -166,7 +166,6 @@
         Item data_field;
         node *link_field;
     };
-
     // FUNCTIONS to manipulate a linked list:
     template <class Item>
     void list_clear(node<Item>*& head_ptr);

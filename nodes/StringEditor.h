@@ -4,7 +4,6 @@
  * Title: project 3 (Nodes, StringEditor Class)          *
  * class: CIS 279                                        *
  ********************************************************/
-
 #ifndef __nodes__StringEditor__
 #define __nodes__StringEditor__
 

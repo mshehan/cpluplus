@@ -76,7 +76,6 @@ public:
 private:
   node<RecordType> *data[TABLE_SIZE];
   std::size_t total_records;
-      
   // HELPER MEMBER FUNCTION
   std::size_t hash(int key) const ;
 };

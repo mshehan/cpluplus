@@ -4,7 +4,6 @@
  * Title: project 3 (Nodes, StringEditor Class)          *
  * class: CIS 279                                        *
  ********************************************************/
-
 // TYPEDEF for the node class:
 //     Each node of the list contains a piece of data and a pointer to the
 //     next node. The type of the data is defined as node::value_type in a

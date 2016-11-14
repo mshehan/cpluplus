@@ -24,10 +24,12 @@ string Patient::getName()
 {
   return name;
 }
+
 string Patient::getMalady()
 {
   return malady;
 }
+
 int Patient::getPriority()
 {
   return thepriority;

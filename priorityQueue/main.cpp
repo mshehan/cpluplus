@@ -9,7 +9,6 @@
 #include "Patient.h"
 using namespace std;
 int main() {
-  
   string name;
   string malady;
   int priority;
