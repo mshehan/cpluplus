@@ -10,7 +10,6 @@
 
 #include "GStack.h"
 
-
 class StringEditor
 {
 public:
